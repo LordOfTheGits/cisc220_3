@@ -1,4 +1,4 @@
-#./bin/bash
+#!/bin/bash
 length=0
 number=0
 symbol=0
