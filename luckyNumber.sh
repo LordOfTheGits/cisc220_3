@@ -1,4 +1,4 @@
-#./bin/bash
+#!/bin/bash
 for ((num=1000; num<=10000; num++)); do
 	numTotal=0
 	for (( pos = 0; pos < ${#num}; pos++ )); do
